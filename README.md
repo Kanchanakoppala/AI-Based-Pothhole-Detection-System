@@ -87,17 +87,20 @@ to improve detection accuracy.
 
 ---
 
+
 ## 📸 Screenshots
+![Additional Detection Result](result2.png)
+![Home Page](./Detection.png)
 
-### Home Page
+![Detection History](./detection%20history.png)
 
-(Add your screenshot here)
+![Model Architecture](./model%20architecture.png)
 
-Example:
+![Model Performance](./model%20performance.png)
 
-![Home Page](images/home.png)
+![Pothole Detection Result](./pothhole%20result.png)
 
----
+![Additional Detection Result](./result2.png)
 
 ## Challenges
 
